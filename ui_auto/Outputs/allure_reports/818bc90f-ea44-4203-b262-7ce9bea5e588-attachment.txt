@@ -1,0 +1,15 @@
+INFO     zxzy_UI_autotest:get_log.py:17 **********登录用例：重置按钮功能**********
+INFO     zxzy_UI_autotest:get_log.py:17 查找元素：('xpath', '//*[@placeholder="请输入用户名"]')
+INFO     zxzy_UI_autotest:get_log.py:17  ,输入内容：('xpath', '//*[@placeholder="请输入用户名"]')
+INFO     zxzy_UI_autotest:get_log.py:17 查找元素：('xpath', '//*[@placeholder="请输入密码"]')
+INFO     zxzy_UI_autotest:get_log.py:17  ,输入内容：('xpath', '//*[@placeholder="请输入密码"]')
+INFO     zxzy_UI_autotest:get_log.py:17 查找元素：('xpath', '//*[@placeholder="请输入验证码"]')
+INFO     zxzy_UI_autotest:get_log.py:17  ,输入内容：('xpath', '//*[@placeholder="请输入验证码"]')
+INFO     zxzy_UI_autotest:get_log.py:17 查找元素：('xpath', '//*[text()="重置"]')
+INFO     zxzy_UI_autotest:get_log.py:17 登录页面_登录功能 ,点击元素：('xpath', '//*[text()="重置"]')
+INFO     zxzy_UI_autotest:get_log.py:17 查找元素：('xpath', '//*[@placeholder="请输入用户名"]')
+INFO     zxzy_UI_autotest:get_log.py:17 登录页面_登录功能获取元素的value属性
+INFO     zxzy_UI_autotest:get_log.py:17 查找元素：('xpath', '//*[@placeholder="请输入密码"]')
+INFO     zxzy_UI_autotest:get_log.py:17 登录页面_登录功能获取元素的value属性
+INFO     zxzy_UI_autotest:get_log.py:17 查找元素：('xpath', '//*[@placeholder="请输入验证码"]')
+INFO     zxzy_UI_autotest:get_log.py:17 登录页面_登录功能获取元素的value属性

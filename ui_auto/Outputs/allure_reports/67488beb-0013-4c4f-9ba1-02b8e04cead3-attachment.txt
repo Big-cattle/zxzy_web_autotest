@@ -1,0 +1,21 @@
+INFO     zxzy_UI_autotest:get_log.py:17 **********登录用例：异常场景：输入错误数据修改密码失败**********
+INFO     zxzy_UI_autotest:get_log.py:17 等待元素 ('xpath', '//*[@class="iconfont iconnavbar_icon_arrow"]') 可见
+INFO     zxzy_UI_autotest:get_log.py:17 等待结束，等待时长为：0
+INFO     zxzy_UI_autotest:get_log.py:17 查找元素：('xpath', '//*[@class="iconfont iconnavbar_icon_arrow"]')
+INFO     zxzy_UI_autotest:get_log.py:17  ,点击元素：('xpath', '//*[@class="iconfont iconnavbar_icon_arrow"]')
+INFO     zxzy_UI_autotest:get_log.py:17 等待元素 ('xpath', '//*[@class="el-dropdown-menu__item"]/span') 可见
+INFO     zxzy_UI_autotest:get_log.py:17 等待结束，等待时长为：0
+INFO     zxzy_UI_autotest:get_log.py:17 查找元素：('xpath', '//*[@class="el-dropdown-menu__item"]/span')
+INFO     zxzy_UI_autotest:get_log.py:17  ,点击元素：('xpath', '//*[@class="el-dropdown-menu__item"]/span')
+INFO     zxzy_UI_autotest:get_log.py:17 查找元素：('xpath', '//*[@for="originPassword"]/following-sibling::div/div/input')
+INFO     zxzy_UI_autotest:get_log.py:17  ,输入内容：('xpath', '//*[@for="originPassword"]/following-sibling::div/div/input')
+INFO     zxzy_UI_autotest:get_log.py:17 查找元素：('xpath', '//*[@for="password"]/following-sibling::div/div/input')
+INFO     zxzy_UI_autotest:get_log.py:17  ,输入内容：('xpath', '//*[@for="password"]/following-sibling::div/div/input')
+INFO     zxzy_UI_autotest:get_log.py:17 查找元素：('xpath', '//*[@for="rePassword"]/following-sibling::div/div/input')
+INFO     zxzy_UI_autotest:get_log.py:17  ,输入内容：('xpath', '//*[@for="rePassword"]/following-sibling::div/div/input')
+INFO     zxzy_UI_autotest:get_log.py:17 查找元素：('xpath', '//span[text()="确 定"]')
+INFO     zxzy_UI_autotest:get_log.py:17  ,点击元素：('xpath', '//span[text()="确 定"]')
+INFO     zxzy_UI_autotest:get_log.py:17 等待元素 ('xpath', '//*[@class="el-form-item__error"]') 可见
+INFO     zxzy_UI_autotest:get_log.py:17 等待结束，等待时长为：0
+INFO     zxzy_UI_autotest:get_log.py:17 查找元素：('xpath', '//*[@class="el-form-item__error"]')
+INFO     zxzy_UI_autotest:get_log.py:17  获取元素文本内容

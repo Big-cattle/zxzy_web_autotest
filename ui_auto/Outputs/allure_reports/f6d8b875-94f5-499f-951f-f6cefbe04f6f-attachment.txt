@@ -1,0 +1,9 @@
+INFO     zxzy_UI_autotest:get_log.py:17 **********登录用例：异常场景：输入框为空等异常情况**********
+INFO     zxzy_UI_autotest:get_log.py:17 查找元素：('xpath', '//*[@placeholder="请输入用户名"]')
+INFO     zxzy_UI_autotest:get_log.py:17 登录页面_登录功能 ,输入内容：('xpath', '//*[@placeholder="请输入用户名"]')
+INFO     zxzy_UI_autotest:get_log.py:17 查找元素：('xpath', '//*[@placeholder="请输入密码"]')
+INFO     zxzy_UI_autotest:get_log.py:17 登录页面_登录功能 ,输入内容：('xpath', '//*[@placeholder="请输入密码"]')
+INFO     zxzy_UI_autotest:get_log.py:17 查找元素：('xpath', '//*[@placeholder="请输入验证码"]')
+INFO     zxzy_UI_autotest:get_log.py:17 登录页面_登录功能 ,输入内容：('xpath', '//*[@placeholder="请输入验证码"]')
+INFO     zxzy_UI_autotest:get_log.py:17 查找元素：('xpath', '//*[text()="登录"]')
+INFO     zxzy_UI_autotest:get_log.py:17 登录页面_登录功能 ,点击元素：('xpath', '//*[text()="登录"]')

@@ -1,0 +1,133 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1615518920284" stop="1615518960795">
+  <name>TestCases.Model_index</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1615518920284" status="passed" stop="1615518937631">
+      <name>test_1_index.TestIndex.test_change_pwd_success</name>
+      <attachments>
+        <attachment source="010f96de-d0ce-4dbe-a764-4e0b95d80e61-attachment.txt" title="Captured log setup" type="text/plain"/>
+        <attachment source="96b8ae51-0182-4108-9493-7b28188e015d-attachment.txt" title="Captured log call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="10128-MainThread"/>
+        <label name="host" value="0CRC88I5"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1615518937754" status="passed" stop="1615518940286">
+      <name>test_1_index.TestIndex.test_change_pwd_error[data0]</name>
+      <attachments>
+        <attachment source="6dc34a23-9cfb-49b9-91a8-6f0b1a27712d-attachment.txt" title="Captured log call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="10128-MainThread"/>
+        <label name="host" value="0CRC88I5"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1615518940822" status="passed" stop="1615518943394">
+      <name>test_1_index.TestIndex.test_change_pwd_error[data1]</name>
+      <attachments>
+        <attachment source="98c6218c-360c-4129-a8f3-3e671e47012e-attachment.txt" title="Captured log call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="10128-MainThread"/>
+        <label name="host" value="0CRC88I5"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1615518943820" status="passed" stop="1615518946124">
+      <name>test_1_index.TestIndex.test_change_pwd_error[data2]</name>
+      <attachments>
+        <attachment source="a9297fcd-516d-4aa4-b84e-ec38854255bb-attachment.txt" title="Captured log call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="10128-MainThread"/>
+        <label name="host" value="0CRC88I5"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1615518946237" status="passed" stop="1615518949059">
+      <name>test_1_index.TestIndex.test_change_pwd_error[data3]</name>
+      <attachments>
+        <attachment source="67488beb-0013-4c4f-9ba1-02b8e04cead3-attachment.txt" title="Captured log call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="10128-MainThread"/>
+        <label name="host" value="0CRC88I5"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1615518949142" status="passed" stop="1615518951935">
+      <name>test_1_index.TestIndex.test_change_pwd_error[data4]</name>
+      <attachments>
+        <attachment source="78183ec9-a0a6-4a7f-821b-74c1b4a8dd19-attachment.txt" title="Captured log call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="10128-MainThread"/>
+        <label name="host" value="0CRC88I5"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1615518952032" status="passed" stop="1615518954828">
+      <name>test_1_index.TestIndex.test_change_pwd_error[data5]</name>
+      <attachments>
+        <attachment source="e2ab7fe6-0cc7-470d-b3d4-b54dfa352c53-attachment.txt" title="Captured log call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="10128-MainThread"/>
+        <label name="host" value="0CRC88I5"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1615518955241" status="passed" stop="1615518957730">
+      <name>test_1_index.TestIndex.test_change_pwd_error[data6]</name>
+      <attachments>
+        <attachment source="83bfac2f-a90d-4295-b654-e8a63160540a-attachment.txt" title="Captured log call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="10128-MainThread"/>
+        <label name="host" value="0CRC88I5"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1615518958241" status="passed" stop="1615518960795">
+      <name>test_1_index.TestIndex.test_change_pwd_error[data7]</name>
+      <attachments>
+        <attachment source="3a462e40-7eba-4953-8d9d-1e4d76665d1e-attachment.txt" title="Captured log call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="10128-MainThread"/>
+        <label name="host" value="0CRC88I5"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>
